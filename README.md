@@ -13,3 +13,7 @@ Packages used:
 Dataset:
 
 Dataset obtained from -> https://archive.ics.uci.edu/ml/datasets/Room+Occupancy+Estimation#
+
+Tableau Visualization:
+
+https://public.tableau.com/views/IoTFinal-RoomOccupancyDetection/RoomOccupancyDetection-IoTOverview?:language=en-US&:display_count=n&:origin=viz_share_link
